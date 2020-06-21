@@ -1,7 +1,7 @@
 image: gitpod/workspace-full
 tasks:
   - init: bundle # Just install our Ruby deps
-    command: bundle exec jekyll serve # Then serve.
+    command: bundle exec jekyll serve --incremental -V -l # Then serve.
 ports:
   - port: 4000
     onOpen: notify
