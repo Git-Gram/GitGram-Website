@@ -1,0 +1,27 @@
+title: The GitGram Project Website
+email: yourfriends@git-gram.gq
+description: >- # this means to ignore newlines until "baseurl:"
+  An project website of Poki's 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://git-gram.gq" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  git-gram
+
+## Directory to build files
+destination: build
+
+# Build settings
+theme: just-the-docs
+
+## Search
+search_enabled: true
+search_tokenizer_separator: /[\s/]+/
+
+## Use dark mode
+color_scheme: "dark"
+
+# Aux links for the upper right navigation
+aux_links:
+  "Updates Channel":
+    - "//telegram.me/GitGramUpdates"
+  "Community Chat":
+    - "//telegram.me/GitGramChat"
