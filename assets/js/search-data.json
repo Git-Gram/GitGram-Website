@@ -1,0 +1,16 @@
+{
+  
+  "1": {
+    "title": "Community Hub",
+    "content": "Community in Telegram . Community Name Is official? Description Link . GitGram Support | ✅ | Get help setting up your private or public instance of GitGram. 1 | https://t.me/GitGramChat | . GitGram Development and Maintainers’ Lounge | ✅ | Discuss about GitGram project development and test features as they deployed to our server. | https://t.me/GitGramDev | . Credits and Acknowledgments . See this page. . Backers and Sponsors . Soon. . There will be limited support for people who just kanged the code and claim they own it. &#8617; . |",
+    "url": "https://git-gram.gq/community",
+    "relUrl": "/community"
+  }
+  ,"2": {
+    "title": "Home",
+    "content": "Welcome to GitGram’s project website! . GitGram is simple-to-setup Telegram bot written in Python with server backend for webhooks, without the database mess and those OAuth prompts. Its support both GitHub and GitLab. . Get started now . . What’s Inside . Private Instances Docs | Public Instances Docs | Community | About the Project | . . About the Project . GitGram is © 2020 by Poki and it now an joint project between Eagle Union and The Pins Team. . License . GitGram is licensed under the GPL-3.0 license. .",
+    "url": "https://git-gram.gq/",
+    "relUrl": "/"
+  }
+  
+}
