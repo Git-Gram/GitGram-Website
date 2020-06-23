@@ -1,7 +1,10 @@
 image: gitpod/workspace-full
 tasks:
   - init: bundle # Just install our Ruby deps
-    command: bundle exec jekyll serve --incremental -V -l -P 4000 --baseurl https://git-gram.gq # Then serve.
+    command: bundle exec jekyll serve --incremental -V -l -P 4000 # Then serve.
 ports:
   - port: 4000
     onOpen: notify
+vscode:
+  extensions:
+    - idleberg.badgen@0.1.1:6sVrHrl4kmA0y8DRB89D/w==
