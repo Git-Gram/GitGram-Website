@@ -1,8 +1,9 @@
 title: The GitGram Project Website
 email: yourfriends@git-gram.gq
 description: >- # this means to ignore newlines until "baseurl:"
-  An project website of Poki's 
-baseurl: "" # the subpath of your site, e.g. /blog
+  An project website of Poki's GitGram bot, an simple
+  Telegram bot with server backend, written in Python.
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://git-gram.gq" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  git-gram
 
@@ -25,3 +26,5 @@ aux_links:
     - "//telegram.me/GitGramUpdates"
   "Community Chat":
     - "//telegram.me/GitGramChat"
+  "Dev Chat":
+    - "//telegram.me/GitGramDev"
