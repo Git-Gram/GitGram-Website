@@ -11,7 +11,7 @@ Preferred-Languages: en
 
 # By hunting bugs, you agree to these policies.
 Policy: https://handbook.git-gram.gq/hunting-security-issues/policy
-Policy: https://en.handbooksbythepins.gq/devops/defend/flagging-the-security-bugs
+Policy: https://en.handbooksbythepins.gq/devops/secure/flagging-the-security-bugs
 
 # We're also looking for new people who focused on hunting security issues
 #
