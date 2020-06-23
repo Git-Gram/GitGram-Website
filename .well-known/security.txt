@@ -1,0 +1,19 @@
+# You can contact us using these emails if you found security bugs.
+Contact: mailto:security@git-gram.gq
+Contact: mailto:security@madebythepins.tk
+Contact: mailto:security@eagleprojects.org
+
+# We thank people who found security bugs.
+Acknowledgments: https://git-gram/community/acknowledgments
+
+# We only speak English, sorry!
+Preferred-Languages: en
+
+# By hunting bugs, you agree to these policies.
+Policy: https://handbook.git-gram.gq/hunting-security-issues/policy
+Policy: https://en.handbooksbythepins.gq/devops/defend/flagging-the-security-bugs
+
+# We're also looking for new people who focused on hunting security issues
+#
+Hiring: https://eagleprojects.org/hiring
+Hiring: https://gitlab.com/MadeByThePinsTeam-DevLabs/available-jobs-tracker
